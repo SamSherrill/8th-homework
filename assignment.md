@@ -7,9 +7,9 @@ If you are opting out of career services, this is *still a required assignment*.
 
 ## Requirements
 
-* Updated portfolio featuring project 1 and two exemplary homework assignments. 
+* DONE - Updated portfolio featuring project 1 and two exemplary homework assignments. 
 
-* Update GitHub profile with pinned repositories featuring project 1 and two exemplary assignments. 
+* DONE - Update GitHub profile with pinned repositories featuring project 1 and two exemplary assignments. 
 
 * Updated resume
 

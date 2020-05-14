@@ -39,11 +39,23 @@ body {
 }
 
 .card-text {
-  text-align: center;
   color: white;
   font-size: 18px;
-  font-family: "Times New Roman", Times, serif;
+  font-weight: 500;
+}
+
+.github-link {
+  color: lightgrey;
+  margin-right: 7%;
+}
+
+.deployed-app-link{
+  color: rgb(255, 255, 140);
 }
 
 /* CONTACT SPECIFIC STYLING */
+.submit-btn {
+  background-color:rgb(49, 146, 140);
+  color: white;
+}
 /* None */
