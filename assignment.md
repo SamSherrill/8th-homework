@@ -42,6 +42,7 @@ Your updated site should have the following content:
 * Links to your GitHub profile & LinkedIn page as well as your email address and phone number
 
 * A link to a PDF of your resume
+HERE: https://drive.google.com/open?id=1qKazRYsYfW8kRviCAv_47cIo1NyKwDyU
 
 * A list of projects. For each project, make sure you have the following:
 

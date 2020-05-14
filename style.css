@@ -26,7 +26,10 @@ body {
 /* ABOUT ME SPECIFIC STYLING */
 .profile-pic {
   max-height: 275px;
+  float: left;
+  margin: 0 20px 10px 0;
 }
+
 
 /* PORTFOLIO SPECIFIC STYLING */
 .card {
